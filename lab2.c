@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+//petru ai gresit nota 2
 int function(int x){
 	x=x-2;
 	if(x>0)
